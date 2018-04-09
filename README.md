@@ -1,1 +1,1 @@
-# data-analysis
+This project is for personal learning only
